@@ -1,8 +1,0 @@
-.idea/
-prebuilds/
-samples/
-test/
-tool/
-.npmignore
-appveyor.yml
-runtest.js
